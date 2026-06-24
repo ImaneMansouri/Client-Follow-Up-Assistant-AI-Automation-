@@ -1,5 +1,6 @@
 # Client-Follow-Up-Assistant-AI-Automation-
 <img width="1538" height="682" alt="Screenshot 2026-06-24 090307" src="https://github.com/user-attachments/assets/f239e5e1-daf6-47f9-91f8-ee13afcd0f1f" />
+
 A scheduled assistant that figures out which clients haven't replied to me and drafts the follow-up so I don't have to dig through my inbox to find them.
 
 Built with: n8n, Gmail, Google Gemini
