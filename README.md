@@ -1,5 +1,5 @@
 # Client-Follow-Up-Assistant-AI-Automation-
-
+<img width="1538" height="682" alt="Screenshot 2026-06-24 090307" src="https://github.com/user-attachments/assets/f239e5e1-daf6-47f9-91f8-ee13afcd0f1f" />
 A scheduled assistant that figures out which clients haven't replied to me and drafts the follow-up so I don't have to dig through my inbox to find them.
 
 Built with: n8n, Gmail, Google Gemini
@@ -27,4 +27,4 @@ As a project manager, I already track projects and tasks using pm tools. What th
 I kept it as draft-and-review instead of auto-send. Client communication is high stakes. I'd rather keep a human check on every message than automate away the one step that protects the relationship. The tool saves me the work of finding people and writing the message, and I still own what gets sent.
 
 I scoped the LLM down to one job: write the draft. The client name, subject, and original email all come straight from Gmail, untouched. The model never rewrites the source of truth, so the context I'm reading is always exact. This came out of an actual bug where letting the model handle everything produced drafts addressed to the wrong person.
-<img width="1538" height="682" alt="Screenshot 2026-06-24 090307" src="https://github.com/user-attachments/assets/f239e5e1-daf6-47f9-91f8-ee13afcd0f1f" />
+
