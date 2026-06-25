@@ -1,7 +1,7 @@
 # Client-Follow-Up-Assistant-AI-Automation-
 <img width="1538" height="682" alt="Screenshot 2026-06-24 090307" src="https://github.com/user-attachments/assets/f239e5e1-daf6-47f9-91f8-ee13afcd0f1f" />
-<img width="1927" height="170" alt="Screenshot 2026-06-25 093518" src="https://github.com/user-attachments/assets/80c4f26d-7802-4b98-ba1b-eb2a86c913cd" />
 <img width="492" height="395" alt="Screenshot 2026-06-25 095033" src="https://github.com/user-attachments/assets/fe1537d8-2135-432b-8ab1-72a7112b3232" />
+<img width="1927" height="170" alt="Screenshot 2026-06-25 093518" src="https://github.com/user-attachments/assets/80c4f26d-7802-4b98-ba1b-eb2a86c913cd" />
 
 
 A scheduled assistant that figures out which clients haven't replied to me and drafts the follow-up so I don't have to dig through my inbox to find them.
