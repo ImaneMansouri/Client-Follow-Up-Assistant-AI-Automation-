@@ -29,3 +29,4 @@ I kept it as draft-and-review instead of auto-send. Client communication is high
 
 I scoped the LLM down to one job: write the draft. The client name, subject, and original email all come straight from Gmail, untouched. The model never rewrites the source of truth, so the context I'm reading is always exact. This came out of an actual bug where letting the model handle everything produced drafts addressed to the wrong person.
 
+<img width="1927" height="170" alt="Screenshot 2026-06-25 093518" src="https://github.com/user-attachments/assets/80c4f26d-7802-4b98-ba1b-eb2a86c913cd" />
