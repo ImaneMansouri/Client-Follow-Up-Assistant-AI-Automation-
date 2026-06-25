@@ -4,6 +4,7 @@
 <img width="1927" height="170" alt="Screenshot 2026-06-25 093518" src="https://github.com/user-attachments/assets/80c4f26d-7802-4b98-ba1b-eb2a86c913cd" />
 
 
+
 A scheduled assistant that figures out which clients haven't replied to me and drafts the follow-up so I don't have to dig through my inbox to find them.
 
 Built with: n8n, Gmail, Google Gemini
